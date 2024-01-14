@@ -1,5 +1,4 @@
 # IA-Store
-# Project for XenonStack Recruitment drive
 It is e-commerce website.
 It is built using ReactJS for frontend,Node.js for backend and Firebase is used for database.
 th user has the login page where once after login they can explore the website and
